@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a solitude person, preferring to stay at home rather than going to a social event. I don't watch movies a lot, and I like mathematics and computer science.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZicoDiegoRR&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=ZicoDiegoRR&&show_icons=true&theme=radical">
