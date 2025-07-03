@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### My name is Zico Diego 😁👋
 
-**I'm a 18-years-old junior programmer interested in machine learning. 🤖**
+**I'm a 18-years-old junior programmer interested in Python. 🤖**
 - 🔭 I’m currently working on my SDXL notebook project.
 - 🌱 I’m currently learning Python, PyTorch, modular programming, and more.
 - 😊 I'm always open for a feedback!
